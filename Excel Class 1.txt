@@ -1,0 +1,12 @@
+Number of sheets depends on memory size of computer -> Till then, keep on adding. 
+Cell_number = Rownocolno
+Total Number in 1 sheet = 1048576 rows & 16384 columns. 
+1 cell can contain 32,767 characters 
+Characters in a header or footer = 255
+Maximum number of line feeds per cell = 253
+Colors in a workbook = 16 million colours
+Hyperlinks in a worksheet = 66,530 hyperlinks
+
+ctr + downarrow to reach last value 
+shift + ctr + downarrow selects entire dataset
+Selects till it finds a gap 
